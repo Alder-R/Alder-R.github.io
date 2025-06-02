@@ -23,9 +23,9 @@ tags: [os, 운영체제]
 |UNIX 시스템의 구성|
 |---|
 |사용자(User)|
-|유틸리티(Utility)|
-|셸(Shell)|
-|커널(Kernel)|
+|[유틸리티(Utility)](#유틸리티-프로그램utility)|
+|[셸(Shell)](#셸shell)|
+|[커널(Kernel)](#커널kernel)|
 |하드웨어(Hardware)|
 
 ### 커널(Kernel)
